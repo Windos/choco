@@ -37,6 +37,8 @@ You can just call me choco.
 
 ## Build Status
 
+This is a simple Draft change for testing purposes
+
 | GitHub Action                                                                                                                                                                                                  |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/chocolatey/choco/build.yml?branch=develop&logo=github)](https://github.com/chocolatey/choco/actions/workflows/build.yml)  |
